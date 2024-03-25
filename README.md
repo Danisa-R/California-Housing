@@ -1,6 +1,6 @@
-<br>
+
 Predicting housing prices of California districts derived from the 1990 census 
-<br>
+
 **Introduction:**
 <br>
 Introduction:
@@ -31,3 +31,5 @@ I understood that random forests can someones have an issue with overfitting, bu
 
 **Findings**
 If a house is closer to the coast, it is more likely to be more expensive. Check out the map:
+<img width="1323" alt="Screen Shot 2024-03-24 at 1 26 18 PM" src="https://github.com/Danisa-R/California-Housing/assets/69412310/850e0bf6-2c47-49f7-a0c9-39253f358a7e">
+
