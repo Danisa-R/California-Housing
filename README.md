@@ -1,7 +1,9 @@
+<br>
 Predicting housing prices of California districts derived from the 1990 census 
-
 <br>
 **Introduction:**
+<br>
+Introduction:
 My goal was to use the 1990 Census of California houses to determine the relationship between median house values and various variables that could affect it, such as ocean proximity and room ratio. 
 
 I wanted to determine what attributes of a house has and can determine its price range.
@@ -29,4 +31,3 @@ I understood that random forests can someones have an issue with overfitting, bu
 
 **Findings**
 If a house is closer to the coast, it is more likely to be more expensive. Check out the map:
-![alt text](https://file%2B.vscode-resource.vscode-cdn.net/Users/danisar/Desktop/Screen%20Shot%202024-03-24%20at%201.26.18%20PM.png?version%3D1711340644978)
